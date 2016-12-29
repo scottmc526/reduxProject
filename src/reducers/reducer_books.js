@@ -1,8 +1,8 @@
 export default function () {
   return [
-    { title: 'JavaScript: The Good Parts' },
-    { title: 'Harry Potter' },
-    { title: 'Slaugherhouse five' },
-    { title: 'Dune' }
+    { title: 'JavaScript: The Good Parts', pages: 100 },
+    { title: 'Harry Potter', pages: 500},
+    { title: 'Slaugherhouse five', pages: 150 },
+    { title: 'Dune', pages: 800 }
   ]
 }
